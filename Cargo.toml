@@ -1,9 +1,11 @@
 [package]
 name = "actor-system"
 version = "0.1.0"
-description = "A Rust library for Actor System"
+description = "Actor System — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/actor-system"
+repository = "https://github.com/SuperInstance/actor-system"
 edition = "2021"
+
+keywords = ["actor-system"]
 
 [dependencies]
